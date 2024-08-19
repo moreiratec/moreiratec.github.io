@@ -1,6 +1,13 @@
 /********** Template CSS **********/
 
 /*** Custom ***/
+.mb-5-portfolio {
+    margin-bottom: 7rem !important;
+} 
+
+.menu-portfolio{
+    font-size: 1.2rem;
+}
 
 .text-custom {
     color: #1A2A36;
@@ -336,6 +343,8 @@
 
 .portfolio-img {
     position: relative;
+    border: 1px solid rgb(170 213 173) ;
+
 }
 
 .portfolio-img::before,
